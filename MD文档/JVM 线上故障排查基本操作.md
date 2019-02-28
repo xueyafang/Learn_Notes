@@ -64,6 +64,6 @@ JDK 提供了很多的工具，比如 jmap ，jcmd 等，oracle 官方推荐使�
 
 good luck！！！！
 
-作者：stateis0
+作者：lzg
 
 链接：https://hacpai.com/article/1519403810488
